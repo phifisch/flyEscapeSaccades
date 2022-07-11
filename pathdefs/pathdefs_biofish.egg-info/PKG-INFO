@@ -1,0 +1,10 @@
+Metadata-Version: 2.1
+Name: pathdefs-biofish
+Version: 0.1
+Summary: path definitions for work
+Home-page: UNKNOWN
+Author: You
+License: UNKNOWN
+Description: Minimal package with only few path definitions, i.e. path to data and source code directories. The paths can be defined on each machine independently without changing the notebook code files anymore
+Platform: UNKNOWN
+Description-Content-Type: text/markdown

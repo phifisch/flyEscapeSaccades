@@ -1,0 +1,7 @@
+setup.py
+pathdefs/PATHDEFS.py
+pathdefs/__init__.py
+pathdefs_biofish.egg-info/PKG-INFO
+pathdefs_biofish.egg-info/SOURCES.txt
+pathdefs_biofish.egg-info/dependency_links.txt
+pathdefs_biofish.egg-info/top_level.txt
